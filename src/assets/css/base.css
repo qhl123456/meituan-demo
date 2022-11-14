@@ -1,0 +1,18 @@
+@import "./normalize.css";
+html {
+  font-size: 27.778vw;
+}
+
+body {
+  font-size: 0.16rem;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.van-grid {
+  justify-content: center;
+}
+*::-webkit-scrollbar {
+  display: none;
+}

@@ -1,0 +1,3194 @@
+{
+  "card": {
+    "name": "【￥3.9】元的月卡，您值得拥有",
+    "price": "3.90",
+    "img": "/imgs/cx/card.jpg"
+  },
+  "GoodsNumber": [
+    "12837485927161117283615261736251",
+    "17368716376191649814048435803485",
+    "73871238718974821790898592485902",
+    "86085468908490890492849190928309",
+    "37510973490173981903890284903095",
+    "38743740917490374097328475834675",
+    "13810923091740973097390750937590",
+    "21738740275034750437059724907429",
+    "50690569384905920498598492056598",
+    "324723878275894758974857284758724",
+    "48752375827458745968359869038569",
+    "467528758723589274589748758947634",
+    "38471897489374897819374897189749",
+    "394890184901839409317409174017401",
+    "83749874892748972849728937489892",
+    "9082983901829308198903814890384908",
+    "989898290183981948938490845989485",
+    "1378127817489174897389478937489374",
+    "293801928309183908149089308490890",
+    "8923712736716473647326487264499428",
+    "53228948590285908249028904890898",
+    "5893892858290859028509840958092485",
+    "697946090903570905909386697907097",
+    "2394820938409238509285982905809285",
+    "235982958920850982098509285902890",
+    "2840802809850982905809284908590098",
+    "193101194112498194809389083501301",
+    "6489289820948908290589034890584390",
+    "2910839218398219849184901384908355",
+    "1381414835948509348509835098309850",
+    "1928490184901849038984293085908459",
+    "1413487823748927598748975893475893",
+    "1298391284908149089038490189081901",
+    "4952484592359028590824905829085908",
+    "4194349138940189048901384093849038",
+    "4959028530928092809859028590894850",
+    "1471379103759037590375901750917509",
+    "2589126372136716373467683764438749",
+    "3874198481708409838758275875878478",
+    "4559689544675893578783756586745699",
+    "3857894745848524834832547857387587",
+    "5834758347593478927298789738748932",
+    "2483274892374983274987329857893275",
+    "7354687346823754862876587467678677",
+    "264732648763459454587492999009472",
+    "2184783274832749327497498372897483",
+    "3478297598745986743345245435356456",
+    "3254353453654635342313423545345365",
+    "3254364352432354536547676465465474",
+    "46465829048092385908098509846565465",
+    "25804859347984378789789084908509848"
+  ],
+  "gifts": [
+    {
+      "id": "gift001",
+      "name": "晨露柔棉系抽纸",
+      "price": "3.7",
+      "img": "/imgs/qhl/gift1.png"
+    },
+    {
+      "id": "gift002",
+      "name": "晨露柔棉系抽纸",
+      "price": "2.69",
+      "img": "/imgs/qhl/gift1.png"
+    },
+    {
+      "id": "gift003",
+      "name": "晨露柔棉系抽纸",
+      "price": "1.76",
+      "img": "/imgs/qhl/gift1.png"
+    },
+    {
+      "id": "gift004",
+      "name": "晨露柔棉系抽纸",
+      "price": "3.7",
+      "img": "/imgs/qhl/gift1.png"
+    },
+    {
+      "id": "gift005",
+      "name": "晨露柔棉系抽纸",
+      "price": "3.7",
+      "img": "/imgs/qhl/gift1.png"
+    },
+    {
+      "id": "gift006",
+      "name": "晨露柔棉系抽纸",
+      "price": "3.7",
+      "img": "/imgs/qhl/gift1.png"
+    }
+  ],
+  "sale": [
+    {
+      "id": "sale001",
+      "img": "/imgs/qhl/sale1.png"
+    },
+    {
+      "id": "sale002",
+      "img": "/imgs/qhl/sale1.png"
+    },
+    {
+      "id": "sale003",
+      "img": "/imgs/qhl/sale1.png"
+    },
+    {
+      "id": "sale004",
+      "img": "/imgs/qhl/sale1.png"
+    }
+  ],
+  "goods": [
+    {
+      "id": "goods001",
+      "name": "【皮薄个大】福建坨溪红心蜜柚(3斤±0.5斤)/个",
+      "price": "3.66",
+      "num": "附近1801人已下单",
+      "rank": "水果今日品牌榜第2名",
+      "img": "/imgs/qhl/goods1.jpg",
+      "goodsBannerImg": [
+        "/imgs/qhl/goods1.jpg",
+        "/imgs/qhl/goods1.jpg",
+        "/imgs/qhl/goods1.jpg",
+        "/imgs/qhl/goods1.jpg"
+      ],
+      "date": [
+        {
+          "desc": "产自福建",
+          "prodtime": "2021-07-21"
+        },
+        {
+          "desc": "应季好货",
+          "prodtime": "45"
+        }
+      ],
+      "userComments": {
+        "commentsNum": 1619,
+        "rating": "93.1%",
+        "label": [
+          {
+            "title": "果肉鲜嫩",
+            "nums": 36
+          },
+          {
+            "title": "没有坏果",
+            "nums": 24
+          },
+          {
+            "title": "个大饱满",
+            "nums": 20
+          }
+        ],
+        "user": {
+          "userImg": "/imgs/qhl/userImg.png",
+          "userName": "陈**9",
+          "commentsTime": "2021.08.31",
+          "star": "5",
+          "content": "果肉鲜嫩，甜甜的，水分也很大，第一次来美团小程序买东西，很满意！",
+          "commengImg": "/imgs/qhl/detail1.jpg"
+        }
+      },
+      "goodsMessage": [
+        {
+          "title": "产地",
+          "info": "福建"
+        },
+        {
+          "title": "规格",
+          "info": "2.5斤~3.5斤"
+        },
+
+        {
+          "title": "保质期",
+          "info": "10天"
+        },
+        {
+          "title": "储存方式",
+          "info": "常温"
+        }
+      ],
+      "goodsDetailImgs": [
+        "/imgs/qhl/goods1.jpg",
+        "/imgs/qhl/goods1.jpg",
+        "/imgs/qhl/goods1.jpg",
+        "/imgs/qhl/goods1.jpg"
+      ]
+    },
+    {
+      "id": "goods002",
+      "name": "【柔韧亲肤】洁柔纸面巾(Face粉小方巾)10包/提 24抽/包",
+      "price": "7.81",
+      "num": "附近2006人已下单",
+      "rank": "家清今日品牌榜第4名",
+      "img": "/imgs/qhl/goods2.jpg",
+      "goodsBannerImg": [
+        "/imgs/qhl/goods2.jpg",
+        "/imgs/qhl/goods2.jpg",
+        "/imgs/qhl/goods2.jpg",
+        "/imgs/qhl/goods2.jpg"
+      ],
+      "date": [
+        {
+          "desc": "生产日期",
+          "prodtime": "2021-07-21"
+        },
+        {
+          "desc": "保质期",
+          "prodtime": "45"
+        }
+      ],
+      "userComments": {
+        "commentsNum": 6812,
+        "rating": "94.5%",
+        "label": [
+          {
+            "title": "物美价廉",
+            "nums": 28
+          },
+          {
+            "title": "质地柔软",
+            "nums": 25
+          },
+          {
+            "title": "完好无缺",
+            "nums": 24
+          }
+        ],
+        "user": {
+          "userImg": "/imgs/qhl/userImg.png",
+          "userName": "陈**9",
+          "commentsTime": "2021.08.31",
+          "star": "5",
+          "content": "质地柔软",
+          "commengImg": "/imgs/qhl/detail2.jpg"
+        }
+      },
+      "goodsMessage": [
+        {
+          "title": "品牌",
+          "info": "洁柔"
+        },
+        {
+          "title": "产地",
+          "info": "四川"
+        },
+        {
+          "title": "规格",
+          "info": "10包/提"
+        },
+
+        {
+          "title": "保质期",
+          "info": "3年"
+        }
+      ],
+      "goodsDetailImgs": [
+        "/imgs/qhl/goods2.jpg",
+        "/imgs/qhl/goods2.jpg",
+        "/imgs/qhl/goods2.jpg",
+        "/imgs/qhl/goods2.jpg"
+      ]
+    },
+    {
+      "id": "goods003",
+      "name": "【口感香醇】伊利纯牛奶无菌枕 16*2 40ML",
+      "price": "34.21",
+      "num": "附近1685人已下单",
+      "rank": "乳饮今日排行榜第一名",
+      "img": "/imgs/qhl/goods3.jpg",
+      "goodsBannerImg": [
+        "/imgs/qhl/goods3.jpg",
+        "/imgs/qhl/goods3.jpg",
+        "/imgs/qhl/goods3.jpg",
+        "/imgs/qhl/goods3.jpg"
+      ],
+      "userComments": {
+        "commentsNum": 12121,
+        "rating": "98.7%",
+        "label": [
+          {
+            "title": "日期新鲜",
+            "nums": 99
+          },
+          {
+            "title": "奶质很好",
+            "nums": 51
+          },
+          {
+            "title": "奶味很香",
+            "nums": 31
+          }
+        ],
+        "user": {
+          "userImg": "/imgs/qhl/userImg.png",
+          "userName": "陈**9",
+          "commentsTime": "2021.08.31",
+          "star": "4",
+          "content": "日期新鲜，奶质很好，奶味很香，口感细腻，自然健康，口感浓郁，质量一流，性价比高",
+          "commengImg": "/imgs/qhl/detail3.jpg"
+        }
+      },
+      "goodsMessage": [
+        {
+          "title": "品牌",
+          "info": "伊利"
+        },
+        {
+          "title": "产地",
+          "info": "安徽"
+        },
+        {
+          "title": "规格",
+          "info": "16*240ML"
+        },
+        {
+          "title": "生产日期",
+          "info": "2021-10-16"
+        },
+        {
+          "title": "保质期",
+          "info": "45天"
+        },
+        {
+          "title": "储存方式",
+          "info": "常温"
+        }
+      ],
+      "goodsDetailImgs": [
+        "/imgs/qhl/goods3.jpg",
+        "/imgs/qhl/goods3.jpg",
+        "/imgs/qhl/goods3.jpg",
+        "/imgs/qhl/goods3.jpg"
+      ]
+    }
+  ],
+
+  "comment": [
+    {
+      "id": "comment0101",
+      "name": "物流助手",
+      "day": "星期一",
+      "msg": "即将确认收货通知",
+      "img": "/imgs/lzy/1.jpg"
+    },
+    {
+      "id": "comment0102",
+      "name": "优惠通知",
+      "day": "21/10/19",
+      "msg": "拼单成功通知",
+      "img": "/imgs/lzy/2.jpg"
+    },
+    {
+      "id": "comment0103",
+      "name": "交易通知",
+      "day": "21/10/19",
+      "msg": "拼单成功通知",
+      "img": "/imgs/lzy/3.jpg"
+    },
+    {
+      "id": "comment0104",
+      "name": "物流助手",
+      "day": "21/10/19",
+      "msg": "拼单成功通知",
+      "img": "/imgs/lzy/4.jpg"
+    },
+    {
+      "id": "comment0105",
+      "name": "交易通知",
+      "day": "21/10/22",
+      "msg": "拼单成功通知",
+      "img": "/imgs/lzy/5.jpg"
+    },
+    {
+      "id": "comment0106",
+      "name": "物流助手",
+      "day": "21/10/19",
+      "msg": "拼单成功通知",
+      "img": "/imgs/lzy/6.jpg"
+    },
+    {
+      "id": "comment0107",
+      "name": "物流助手",
+      "day": "21/10/25",
+      "msg": "拼单成功通知",
+      "img": "/imgs/lzy/7.jpg"
+    },
+    {
+      "id": "comment0108",
+      "name": "优惠通知",
+      "day": "21/10/19",
+      "msg": "拼单成功通知",
+      "img": "/imgs/lzy/8.jpg"
+    }
+  ],
+  "adress": [
+    {
+      "id": "address01001",
+      "name": "绿港自选超市",
+      "s1": "距离最短",
+      "s2": "距您步行距离：300米",
+      "s4": "高新区高新六路43号绿港花园高新6路43号绿港花园小区高层小区院子",
+      "s5": "支持冷冻冷藏",
+      "img": "/imgs/lzy/05.jpg"
+    },
+    {
+      "id": "address01002",
+      "name": "绿港自选超市",
+      "s1": "距离最短",
+      "s2": "距您步行距离：300米",
+      "s4": "高新区高新六路43号绿港花园高新6路43号绿港花园小区高层小区院子",
+      "s5": "支持冷冻冷藏",
+      "img": "/imgs/lzy/07.jpg"
+    },
+    {
+      "id": "address01003",
+      "name": "绿港自选超市",
+      "s1": "距离最短",
+      "s2": "距您步行距离：300米",
+      "s4": "高新区高新六路43号绿港花园高新6路43号绿港花园小区高层小区院子",
+      "s5": "支持冷冻冷藏",
+      "img": "/imgs/lzy/08.jpg"
+    },
+    {
+      "id": "address01004",
+      "name": "绿港自选超市",
+      "s1": "距离最短",
+      "s2": "距您步行距离：300米",
+      "s4": "高新区高新六路43号绿港花园高新6路43号绿港花园小区高层小区院子",
+      "s5": "支持冷冻冷藏",
+      "img": "/imgs/lzy/09.jpg"
+    }
+  ],
+  "eval": [
+    {
+      "id": "eval0101",
+      "name": "yueya",
+      "img": "/imgs/lzy/01.jpg",
+      "msg": "【童年经典回味】爱尚咪咪虾条经典原味18克*16包",
+      "price": "4.98"
+    },
+    {
+      "id": "eval0102",
+      "name": "yueya",
+      "img": "/imgs/lzy/02.jpg",
+      "msg": "【童年经典回味】爱尚咪咪虾条经典原味18克*16包",
+      "price": "4.98"
+    },
+    {
+      "id": "eval0103",
+      "name": "yueya",
+      "img": "/imgs/lzy/03.jpg",
+      "msg": "【童年经典回味】爱尚咪咪虾条经典原味18克*16包",
+      "price": "4.98"
+    },
+    {
+      "id": "eval0104",
+      "name": "yueya",
+      "img": "/imgs/lzy/04.jpg",
+      "msg": "【童年经典回味】爱尚咪咪虾条经典原味18克*16包",
+      "price": "4.98"
+    }
+  ],
+
+  "classfy": [
+    {
+      "title": "新客专享",
+      "typeId": "classType001",
+      "asideTab": [
+        {
+          "asideTypeId": "aside001",
+          "asidetitles": "新人专享优惠产品",
+          "goodsDec": [
+            {
+              "goodId": "classGood001",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood002",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood003",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood004",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood005",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "每日上新",
+      "typeId": "classType002",
+      "asideTab": [
+        {
+          "asideTypeId": "aside001",
+          "asidetitles": "每日优惠产品",
+          "goodsDec": [
+            {
+              "goodId": "classGood006",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood007",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood008",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood009",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood010",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "蔬菜土豆",
+      "typeId": "classType003",
+      "asideTab": [
+        {
+          "asideTypeId": "aside001",
+          "asidetitles": "全部",
+          "goodsDec": [
+            {
+              "goodId": "classGood011",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood012",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood013",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood014",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood015",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside002",
+          "asidetitles": "土豆/根茎类",
+          "goodsDec": [
+            {
+              "goodId": "classGood016",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood017",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood018",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood019",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood020",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside003",
+          "asidetitles": "番茄/茄瓜类",
+          "goodsDec": [
+            {
+              "goodId": "classGood021",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood022",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood023",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood024",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood025",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside004",
+          "asidetitles": "叶菜类",
+          "goodsDec": [
+            {
+              "goodId": "classGood026",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood027",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood028",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood029",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood030",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside005",
+          "asidetitles": "花菜/球茎类",
+          "goodsDec": [
+            {
+              "goodId": "classGood031",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood032",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood033",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood034",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood035",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "时令水果",
+      "typeId": "classType004",
+      "asideTab": [
+        {
+          "asideTypeId": "aside001",
+          "asidetitles": "全部",
+          "goodsDec": [
+            {
+              "goodId": "classGood036",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood037",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood038",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood039",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood040",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside002",
+          "asidetitles": "柑桔橙柚",
+          "goodsDec": [
+            {
+              "goodId": "classGood041",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood042",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood043",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood044",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood045",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside003",
+          "asidetitles": "葡提浆果",
+          "goodsDec": [
+            {
+              "goodId": "classGood046",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood047",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood048",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood049",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood050",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside004",
+          "asidetitles": "苹果香蕉梨",
+          "goodsDec": [
+            {
+              "goodId": "classGood051",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood052",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood053",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood054",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood055",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside005",
+          "asidetitles": "西瓜/蜜瓜",
+          "goodsDec": [
+            {
+              "goodId": "classGood056",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood057",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood058",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood059",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood060",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "肉蛋水产",
+      "typeId": "classType005",
+      "asideTab": [
+        {
+          "asideTypeId": "aside001",
+          "asidetitles": "全部",
+          "goodsDec": [
+            {
+              "goodId": "classGood061",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood062",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood063",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood064",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood065",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside002",
+          "asidetitles": "鸡蛋/蛋类",
+          "goodsDec": [
+            {
+              "goodId": "classGood066",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood067",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood068",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood069",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood070",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside003",
+          "asidetitles": "猪肉",
+          "goodsDec": [
+            {
+              "goodId": "classGood071",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood072",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood073",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood074",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood075",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside004",
+          "asidetitles": "牛羊肉",
+          "goodsDec": [
+            {
+              "goodId": "classGood076",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood077",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood078",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood079",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood080",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside005",
+          "asidetitles": "鸡鸭禽",
+          "goodsDec": [
+            {
+              "goodId": "classGood081",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood082",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood083",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood084",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood085",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "酒水乳饮",
+      "typeId": "classType006",
+      "asideTab": [
+        {
+          "asideTypeId": "aside001",
+          "asidetitles": "全部",
+          "goodsDec": [
+            {
+              "goodId": "classGood086",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood087",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood088",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood089",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood090",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside002",
+          "asidetitles": "果汁/饮料",
+          "goodsDec": [
+            {
+              "goodId": "classGood091",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood092",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood093",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood094",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood095",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside003",
+          "asidetitles": "牛奶",
+          "goodsDec": [
+            {
+              "goodId": "classGood096",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood097",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood098",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood099",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood0100",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside004",
+          "asidetitles": "酸奶",
+          "goodsDec": [
+            {
+              "goodId": "classGood101",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood102",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood103",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood104",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood105",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside005",
+          "asidetitles": "饮用水",
+          "goodsDec": [
+            {
+              "goodId": "classGood106",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood107",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood108",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood109",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood110",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "休闲零食",
+      "typeId": "classType007",
+      "asideTab": [
+        {
+          "asideTypeId": "aside001",
+          "asidetitles": "全部",
+          "goodsDec": [
+            {
+              "goodId": "classGood111",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood112",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood113",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood114",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood115",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside002",
+          "asidetitles": "面包糕点",
+          "goodsDec": [
+            {
+              "goodId": "classGood116",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood117",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood118",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood119",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood120",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside003",
+          "asidetitles": "饼干膨化",
+          "goodsDec": [
+            {
+              "goodId": "classGood121",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood122",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood123",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood124",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood125",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside004",
+          "asidetitles": "肉干小食",
+          "goodsDec": [
+            {
+              "goodId": "classGood126",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood127",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood128",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood129",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood130",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside005",
+          "asidetitles": "糖果巧克力",
+          "goodsDec": [
+            {
+              "goodId": "classGood131",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood132",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood133",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood134",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood135",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "粮油调味",
+      "typeId": "classType008",
+      "asideTab": [
+        {
+          "asideTypeId": "aside001",
+          "asidetitles": "全部",
+          "goodsDec": [
+            {
+              "goodId": "classGood136",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood137",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood138",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood139",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood140",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside002",
+          "asidetitles": "方便速食",
+          "goodsDec": [
+            {
+              "goodId": "classGood141",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood142",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood143",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood144",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood145",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside003",
+          "asidetitles": "罐头/酱菜",
+          "goodsDec": [
+            {
+              "goodId": "classGood146",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood147",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood148",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood149",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood150",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside004",
+          "asidetitles": "面粉面条",
+          "goodsDec": [
+            {
+              "goodId": "classGood151",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood152",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood153",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood154",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood155",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside005",
+          "asidetitles": "大米杂粮",
+          "goodsDec": [
+            {
+              "goodId": "classGood156",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood157",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood158",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood159",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood160",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "冷冻食品",
+      "typeId": "classType009",
+      "asideTab": [
+        {
+          "asideTypeId": "aside001",
+          "asidetitles": "全部",
+          "goodsDec": [
+            {
+              "goodId": "classGood161",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood162",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood163",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood164",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood165",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside002",
+          "asidetitles": "包子点心",
+          "goodsDec": [
+            {
+              "goodId": "classGood166",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood167",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood168",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood169",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood170",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside003",
+          "asidetitles": "水饺汤圆",
+          "goodsDec": [
+            {
+              "goodId": "classGood171",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood172",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood173",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood174",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood175",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside004",
+          "asidetitles": "熟食",
+          "goodsDec": [
+            {
+              "goodId": "classGood176",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood177",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood178",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood179",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood180",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside005",
+          "asidetitles": "冷冻半成品",
+          "goodsDec": [
+            {
+              "goodId": "classGood181",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood182",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood183",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood184",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood185",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "个人清洁",
+      "typeId": "classType010",
+      "asideTab": [
+        {
+          "asideTypeId": "aside001",
+          "asidetitles": "全部",
+          "goodsDec": [
+            {
+              "goodId": "classGood186",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood187",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood188",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood189",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood190",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside002",
+          "asidetitles": "纸巾湿巾",
+          "goodsDec": [
+            {
+              "goodId": "classGood191",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood192",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood193",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood194",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood195",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside003",
+          "asidetitles": "家居清洁",
+          "goodsDec": [
+            {
+              "goodId": "classGood196",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood197",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood198",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood199",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood200",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside004",
+          "asidetitles": "衣物清洁",
+          "goodsDec": [
+            {
+              "goodId": "classGood201",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood202",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood203",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood204",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood205",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside005",
+          "asidetitles": "口腔护理",
+          "goodsDec": [
+            {
+              "goodId": "classGood206",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood207",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood208",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood209",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood210",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "日用百货",
+      "typeId": "classType011",
+      "asideTab": [
+        {
+          "asideTypeId": "aside001",
+          "asidetitles": "全部",
+          "goodsDec": [
+            {
+              "goodId": "classGood211",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood212",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood213",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood214",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood215",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside002",
+          "asidetitles": "家居用品",
+          "goodsDec": [
+            {
+              "goodId": "classGood216",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood217",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood218",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood219",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood220",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside003",
+          "asidetitles": "厨房用品",
+          "goodsDec": [
+            {
+              "goodId": "classGood221",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood222",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood223",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood224",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood225",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside004",
+          "asidetitles": "一次性用品",
+          "goodsDec": [
+            {
+              "goodId": "classGood226",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood227",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood228",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood229",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood230",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside005",
+          "asidetitles": "服饰配件",
+          "goodsDec": [
+            {
+              "goodId": "classGood231",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood232",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood233",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood234",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood235",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "花卉绿植",
+      "typeId": "classType012",
+      "asideTab": [
+        {
+          "asideTypeId": "aside001",
+          "asidetitles": "全部",
+          "goodsDec": [
+            {
+              "goodId": "classGood236",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood237",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood238",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood239",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood240",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside002",
+          "asidetitles": "花卉",
+          "goodsDec": [
+            {
+              "goodId": "classGood241",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood242",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood243",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood244",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood245",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        },
+        {
+          "asideTypeId": "aside003",
+          "asidetitles": "绿植",
+          "goodsDec": [
+            {
+              "goodId": "classGood246",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood247",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近2000人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood248",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood249",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood250",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "满29减4",
+      "typeId": "classType013",
+      "asideTab": [
+        {
+          "asideTypeId": "aside001",
+          "asidetitles": "满减产品",
+          "goodsDec": [
+            {
+              "goodId": "classGood251",
+              "name": "【满嘴浓郁香甜】苏噗糕点榴莲千层6寸...",
+              "price": "7.81",
+              "img": "imgs/wr/Screensho_03.jpg",
+              "person": "附近1937人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood252",
+              "name": "【口感酥脆】陈御香手工花椒锅巴麻辣味...",
+              "price": "9.81",
+              "img": "imgs/wr/Screensho_13.jpg",
+              "person": "附近9999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood253",
+              "name": "【香浓醇厚】彩虹千层蛋糕300克...",
+              "price": "11.99",
+              "img": "imgs/wr/Screensho_15.jpg",
+              "person": "附近1999人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood254",
+              "name": "【柔肤可溶水】晨露柔棉系列卫生纸14卷/提",
+              "price": "13.33",
+              "img": "imgs/wr/Screensho_17.jpg",
+              "person": "附近1900人已下单",
+              "num": "限1份"
+            },
+            {
+              "goodId": "classGood255",
+              "name": "【场地直采】海南红心火龙果 2粒装450g-500g",
+              "price": "16.19",
+              "img": "imgs/wr/Screensho_19.jpg",
+              "person": "附近1555人已下单",
+              "num": "限1份"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bannerImg": [
+    {
+      "id": 11,
+      "imgs": [
+        "/imgs/qhl/111.jfif",
+        "/imgs/qhl/112.jfif",
+        "/imgs/qhl/113.webp"
+      ],
+      "userComments": {
+        "commentsNum": 1619,
+        "rating": "93.1%",
+        "label": [
+          {
+            "title": "果肉鲜嫩",
+            "nums": 36
+          },
+          {
+            "title": "没有坏果",
+            "nums": 24
+          },
+          {
+            "title": "个大饱满",
+            "nums": 20
+          }
+        ],
+        "user": {
+          "userImg": "/imgs/qhl/userImg.png",
+          "userName": "陈**9",
+          "commentsTime": "2021.08.31",
+          "star": "5",
+          "content": "果肉鲜嫩，甜甜的，水分也很大，第一次来美团小程序买东西，很满意！",
+          "commengImg": "/imgs/qhl/detail1.jpg"
+        }
+      },
+      "goodsMessage": [
+        {
+          "title": "产地",
+          "info": "福建"
+        },
+        {
+          "title": "规格",
+          "info": "2.5斤~3.5斤"
+        },
+
+        {
+          "title": "保质期",
+          "info": "10天"
+        },
+        {
+          "title": "储存方式",
+          "info": "常温"
+        }
+      ],
+      "date": [
+        {
+          "desc": "生产日期",
+          "prodtime": "2021-07-21"
+        },
+        {
+          "desc": "保质期",
+          "prodtime": "45"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "imgs": [
+        "/imgs/qhl/121.jfif",
+        "/imgs/qhl/122.jfif",
+        "/imgs/qhl/123.jfif"
+      ],
+      "userComments": {
+        "commentsNum": 6812,
+        "rating": "94.5%",
+        "label": [
+          {
+            "title": "物美价廉",
+            "nums": 28
+          },
+          {
+            "title": "质地柔软",
+            "nums": 25
+          },
+          {
+            "title": "完好无缺",
+            "nums": 24
+          }
+        ],
+        "user": {
+          "userImg": "/imgs/qhl/userImg.png",
+          "userName": "陈**9",
+          "commentsTime": "2021.08.31",
+          "star": "5",
+          "content": "质地柔软",
+          "commengImg": "/imgs/qhl/detail2.jpg"
+        }
+      },
+      "goodsMessage": [
+        {
+          "title": "品牌",
+          "info": "洁柔"
+        },
+        {
+          "title": "产地",
+          "info": "四川"
+        },
+        {
+          "title": "规格",
+          "info": "10包/提"
+        },
+
+        {
+          "title": "保质期",
+          "info": "3年"
+        }
+      ],
+      "date": [
+        {
+          "desc": "产自福建",
+          "prodtime": "2021-07-21"
+        },
+        {
+          "desc": "应季好货",
+          "prodtime": "45"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "imgs": [
+        "/imgs/qhl/131.webp",
+        "/imgs/qhl/132.webp",
+        "/imgs/qhl/133.jfif"
+      ],
+      "userComments": {
+        "commentsNum": 12121,
+        "rating": "98.7%",
+        "label": [
+          {
+            "title": "日期新鲜",
+            "nums": 99
+          },
+          {
+            "title": "奶质很好",
+            "nums": 51
+          },
+          {
+            "title": "奶味很香",
+            "nums": 31
+          }
+        ],
+        "user": {
+          "userImg": "/imgs/qhl/userImg.png",
+          "userName": "陈**9",
+          "commentsTime": "2021.08.31",
+          "star": "4",
+          "content": "日期新鲜，奶质很好，奶味很香，口感细腻，自然健康，口感浓郁，质量一流，性价比高",
+          "commengImg": "/imgs/qhl/detail3.jpg"
+        }
+      },
+      "goodsMessage": [
+        {
+          "title": "品牌",
+          "info": "伊利"
+        },
+        {
+          "title": "产地",
+          "info": "安徽"
+        },
+        {
+          "title": "规格",
+          "info": "16*240ML"
+        },
+        {
+          "title": "生产日期",
+          "info": "2021-10-16"
+        },
+        {
+          "title": "保质期",
+          "info": "45天"
+        },
+        {
+          "title": "储存方式",
+          "info": "常温"
+        }
+      ],
+      "date": [
+        {
+          "desc": "产自福建",
+          "prodtime": "2021-07-21"
+        },
+        {
+          "desc": "应季好货",
+          "prodtime": "45"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "imgs": [
+        "/imgs/qhl/141.jfif",
+        "/imgs/qhl/142.jfif",
+        "/imgs/qhl/143.jfif"
+      ],
+      "userComments": {
+        "commentsNum": 12121,
+        "rating": "98.7%",
+        "label": [
+          {
+            "title": "日期新鲜",
+            "nums": 99
+          },
+          {
+            "title": "奶质很好",
+            "nums": 51
+          },
+          {
+            "title": "奶味很香",
+            "nums": 31
+          }
+        ],
+        "user": {
+          "userImg": "/imgs/qhl/userImg.png",
+          "userName": "陈**9",
+          "commentsTime": "2021.08.31",
+          "star": "4",
+          "content": "日期新鲜，奶质很好，奶味很香，口感细腻，自然健康，口感浓郁，质量一流，性价比高",
+          "commengImg": "/imgs/qhl/detail3.jpg"
+        }
+      },
+      "goodsMessage": [
+        {
+          "title": "品牌",
+          "info": "伊利"
+        },
+        {
+          "title": "产地",
+          "info": "安徽"
+        },
+        {
+          "title": "规格",
+          "info": "16*240ML"
+        },
+        {
+          "title": "生产日期",
+          "info": "2021-10-16"
+        },
+        {
+          "title": "保质期",
+          "info": "45天"
+        },
+        {
+          "title": "储存方式",
+          "info": "常温"
+        }
+      ],
+      "date": [
+        {
+          "desc": "产自福建",
+          "prodtime": "2021-07-21"
+        },
+        {
+          "desc": "应季好货",
+          "prodtime": "45"
+        }
+      ]
+    }
+  ],
+  "search": [
+    {
+      "msg": "核桃",
+      "message": [
+        "新疆大核桃",
+        "核桃补脑",
+        "大核桃",
+        "核桃牛奶",
+        "被门夹过的核桃补脑吗"
+      ]
+    },
+    {
+      "msg": "土豆",
+      "message": ["新鲜土豆", "大土豆", "小土豆", "马铃薯", "土豆丝"]
+    },
+    {
+      "msg": "鸡蛋",
+      "message": ["鸭蛋", "鹅蛋", "煮鸡蛋", "蒸鸡蛋", "生鸡蛋"]
+    },
+    {
+      "msg": "牛奶",
+      "message": ["核桃奶", "特仑苏牛奶", "酸牛奶", "过期牛奶", "牛奶"]
+    },
+    {
+      "msg": "方便面",
+      "message": ["炒方便面", "泡面", "煮方便面", "蒸方便面", "干吃面"]
+    },
+    {
+      "msg": "",
+      "message": []
+    }
+  ]
+}
